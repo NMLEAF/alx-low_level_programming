@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+* magic - magic numbers
+* @n: integer params
+* Return: 0
+*/
+
 int main(void)
 {
 	int n;
